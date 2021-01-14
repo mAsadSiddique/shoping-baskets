@@ -1,0 +1,20 @@
+.home__container {
+    margin-top: 15px;
+    background-color: lightblue;
+    /* box-shadow: 20px 20px 50px #00d2c6, -30px -30px 60px #818181; */
+}
+
+
+/* .card__set {
+    display: flex;
+    flex-wrap: row;
+} */
+
+
+/* @media only screen and (max-width: 768px) {
+    .card__set {
+        display: flex;
+        flex-wrap: row-wrap;
+        font-weight: bold;
+    }
+} */

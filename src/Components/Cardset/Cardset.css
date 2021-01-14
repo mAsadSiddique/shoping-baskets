@@ -1,0 +1,30 @@
+.card__container {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.books_list {
+    display: flex;
+    justify-items: center;
+    top: 25px;
+    margin-bottom: 50px;
+    box-shadow: 20px 20px 40px rgba(101, 114, 29, 0.6), -30px -10px 60px rgba(84, 122, 98, 0.609);
+    z-index: 2;
+}
+
+.card__img {
+    height: 250px;
+}
+
+.author__price__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.book__price {
+    font-weight: bold;
+}
+
+.add__to__cart__button {
+    width: 100%;
+}

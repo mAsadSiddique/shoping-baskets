@@ -1,0 +1,47 @@
+.Header__container {
+    padding: 20px 0;
+    background-color: rgba(200, 220, 231);
+    color: black;
+    font-family: 'Poppins';
+}
+
+.logo {
+    width: 250px;
+    height: 50px;
+}
+
+.menue-active {
+    /* font-weight: bold; */
+    color: white !important;
+}
+
+.mr-auto a {
+    padding: 10px;
+    color: #FFFFFF80;
+    text-decoration: none;
+}
+
+.nav-link.active {
+    color: #fff;
+}
+
+.basket {
+    /* display: inline-block;
+    justify-content: right; */
+    width: 50px;
+    height: 45px;
+}
+
+.log__in>a {
+    text-decoration: none;
+    padding: 10px;
+    color: #FFFFFF80;
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+    /* font-weight: bold; */
+    color: white;
+    margin: 0px;
+}
